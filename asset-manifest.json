@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/FishingMembershipsNI/static/js/main.bbe96b26.js",
+    "static/js/787.f173f22f.chunk.js": "/FishingMembershipsNI/static/js/787.f173f22f.chunk.js",
+    "index.html": "/FishingMembershipsNI/index.html",
+    "main.bbe96b26.js.map": "/FishingMembershipsNI/static/js/main.bbe96b26.js.map",
+    "787.f173f22f.chunk.js.map": "/FishingMembershipsNI/static/js/787.f173f22f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bbe96b26.js"
+  ]
+}
